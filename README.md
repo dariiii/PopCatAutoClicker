@@ -6,9 +6,6 @@
 ```bash
 git clone https://github.com/goldfirework/PopCatAutoClicker.git
 ```
-```
-pip install selenium 
-```
 
 ## Usage
 
