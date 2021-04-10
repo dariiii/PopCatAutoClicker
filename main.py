@@ -9,6 +9,7 @@ driver = webdriver.Chrome()
 driver.get("https://popcat.click")
 
 elem = driver.find_element_by_tag_name('body')
+driver.find_element_by_class_name('leaderboard ').click()
 
 clicks2 = 0
 while(int(clicks) > clicks2):
