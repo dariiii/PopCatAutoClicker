@@ -733,11 +733,19 @@
    'c:\\program files (x86)\\python38-32\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('os', 'c:\\program files (x86)\\python38-32\\lib\\os.py', 'PYMODULE'),
+  ('_py_abc',
+   'c:\\program files (x86)\\python38-32\\lib\\_py_abc.py',
+   'PYMODULE'),
   ('stringprep',
    'c:\\program files (x86)\\python38-32\\lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
-   'c:\\program files (x86)\\python38-32\\lib\\_py_abc.py',
+  ('chromedriver_autoinstaller',
+   'C:\\Users\\Jon\\Desktop\\Kode & '
+   'annet\\popcat\\chromedriver_autoinstaller\\__init__.py',
+   'PYMODULE'),
+  ('chromedriver_autoinstaller.utils',
+   'C:\\Users\\Jon\\Desktop\\Kode & '
+   'annet\\popcat\\chromedriver_autoinstaller\\utils.py',
    'PYMODULE'),
   ('selenium.webdriver.common.keys',
    'C:\\Users\\Jon\\Desktop\\Kode & '

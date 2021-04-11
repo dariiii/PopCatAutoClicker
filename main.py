@@ -1,10 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-
+import chromedriver_autoinstaller
 
 #clicks = input("How many clicks do you want:    ")
-clicks = "50000"
+clicks = "500000"
 
+chromedriver_autoinstaller.install()
 driver = webdriver.Chrome()
 driver.get("https://popcat.click")
 
